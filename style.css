@@ -13,9 +13,7 @@
     margin: 25px auto;
     width: 700px;
 }
-.titulo{
-    display: inline-block;
-   }
+
 .comentario{
     color: #eedbdb;
     display: inline-block;
@@ -26,3 +24,8 @@
     color: gray;
     padding-right: 1px;
 }
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
